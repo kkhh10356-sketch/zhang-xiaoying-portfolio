@@ -19,6 +19,8 @@ pnpm run build
 
 项目已包含 `vercel.json`，导入 GitHub 后可直接部署到 Vercel。Vercel 会执行 `pnpm install --frozen-lockfile` 和 `pnpm run build`，发布 `dist` 目录。
 
+当前公开预览：<https://zhang-xiaoying-portfolio.vercel.app>
+
 ## 说明
 
 `public/assets` 中的视频已转换为适合网页加载的 H.264 MP4，并开启快速开始播放参数。原始高码率视频不在仓库内。
