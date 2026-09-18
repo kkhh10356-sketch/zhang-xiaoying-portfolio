@@ -23,7 +23,7 @@ pnpm run build
 
 GitHub 仓库：<https://github.com/kkhh10356-sketch/zhang-xiaoying-portfolio>
 
-备用部署地址将在腾讯云香港节点完成配置后补充到这里。
+腾讯云香港备用地址：<https://zhangxiaoying-portfolio-hk-1491091849.cos-website.ap-hongkong.myqcloud.com>
 
 ## 说明
 
