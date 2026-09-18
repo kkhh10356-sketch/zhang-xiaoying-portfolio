@@ -19,7 +19,11 @@ pnpm run build
 
 项目已包含 `vercel.json`，导入 GitHub 后可直接部署到 Vercel。Vercel 会执行 `pnpm install --frozen-lockfile` 和 `pnpm run build`，发布 `dist` 目录。
 
-当前公开预览：<https://zhang-xiaoying-portfolio.vercel.app>
+当前公开网址：<https://zhang-xiaoying-portfolio-v2.vercel.app>
+
+GitHub 仓库：<https://github.com/kkhh10356-sketch/zhang-xiaoying-portfolio>
+
+备用部署地址将在腾讯云香港节点完成配置后补充到这里。
 
 ## 说明
 
