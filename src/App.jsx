@@ -347,8 +347,8 @@ function App() {
 
           <div className="stats" data-reveal>
             <div><strong>3<sup>+</sup></strong><span>年行业经验</span></div>
-            <div><strong>100W<sup>+</sup></strong><span>项目总播放</span></div>
-            <div><strong>6–10</strong><span>每周稳定产出</span></div>
+            <div><strong>1000W<sup>+</sup></strong><span>项目总播放</span></div>
+            <div><strong>100+</strong><span>每周稳定产出</span></div>
             <div><strong>1000<sup>+</sup></strong><span>有效转化线索</span></div>
           </div>
         </div>
