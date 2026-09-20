@@ -23,7 +23,7 @@ pnpm run build
 
 GitHub 仓库：<https://github.com/kkhh10356-sketch/zhang-xiaoying-portfolio>
 
-腾讯云香港备用地址：<https://zhangxiaoying-portfolio-hk-1491091849.cos-website.ap-hongkong.myqcloud.com>
+腾讯云 EdgeOne Pages 已部署（全球可用区，含中国大陆）。腾讯云默认域名仅支持限时预览，绑定自定义域名后可作为长期备用地址。
 
 ## 说明
 
